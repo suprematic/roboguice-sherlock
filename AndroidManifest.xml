@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!-- only used by robolectric -->
+<!-- test forked commit -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="com.github.rtyley.android.sherlock.roboguice"
