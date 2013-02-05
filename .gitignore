@@ -11,7 +11,7 @@ release.properties
 #project.properties
 *.iws
 *.iml
-#gen
+gen
 */seed.txt
 notes
 logs
